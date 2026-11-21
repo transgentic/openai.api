@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "openai.api",
+  "providerType": "api",
+  "id": "api_openai",
+  "title": "OpenAI",
+  "protocol": "openai",
+  "baseUrl": "https://api.openai.com/v1"
+}
