@@ -6,5 +6,18 @@
   "id": "api_openai",
   "title": "OpenAI",
   "protocol": "openai",
-  "baseUrl": "https://api.openai.com/v1"
+  "baseUrl": "https://api.openai.com/v1",
+  "speech": {
+    "operation": "openai-speech",
+    "models": [
+      "gpt-4o-mini-tts"
+    ],
+    "voices": [
+      "alloy",
+      "coral",
+      "nova",
+      "onyx",
+      "shimmer"
+    ]
+  }
 }
