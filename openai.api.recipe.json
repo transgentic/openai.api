@@ -19,5 +19,16 @@
       "onyx",
       "shimmer"
     ]
+  },
+  "imageGeneration": {
+    "operation": "openai-images",
+    "models": [
+      "gpt-image-2"
+    ],
+    "sizes": [
+      "1024x1024",
+      "1536x1024",
+      "1024x1536"
+    ]
   }
 }
